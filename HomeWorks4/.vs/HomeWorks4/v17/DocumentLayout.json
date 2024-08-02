@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:39:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Factorial.cs",
+              "RelativeToolTip": "Factorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:31:16.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:43:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:37:50.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
