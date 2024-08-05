@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|c:\\users\\lenova\\onedrive\\desktop\\homeworks4\\homeworks4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495DC9AC-3B8D-41AE-B656-18AEA568393D}|HomeWorks4.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:55:42.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculator.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Factorial.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Factorial.cs",
               "RelativeDocumentMoniker": "Factorial.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Account.cs",
               "RelativeDocumentMoniker": "Account.cs",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\HomeWorks4\\HomeWorks4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T18:37:50.738Z",
               "EditorCaption": ""
